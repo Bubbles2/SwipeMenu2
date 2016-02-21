@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_1">#666666</color>
+    <color name="black_2">#333333</color>
+
+    <color name="blue_1">#157DFB</color>
+    <color name="blue_2">#1065CC</color>
+    <color name="blue_3">#6DABFF</color>
+    <color name="blue_4">#E6F2FE</color>
+    <color name="blue_6">#0E7CFF</color>
+    <color name="blue_7">#0078FF</color>
+    <color name="blue_highlight">#4085d8ff</color>
+
+    <color name="green">#00C500</color>
+    <color name="green_1">#78b41e</color>
+
+    <color name="grey">#FFBBBBBB</color>
+    <color name="grey_1">#666666</color>
+    <color name="grey_2">#D6D6D6</color>
+    <color name="grey_3">#E6E6E6</color>
+    <color name="grey_4">#F7F7F7</color>
+    <color name="grey_5">#B6B6B6</color>
+    <color name="grey_6">#999999</color>
+    <color name="grey_7">#1b1b1b</color>
+    <color name="grey_7b">#bbbbbb</color>
+    <color name="grey_8">#2A2A2A</color>
+    <color name="grey_9">#2F2F2F</color>
+    <color name="grey_10">#DDDDDD</color>
+    <color name="grey_11">#F4F4F4</color>
+    <color name="grey_12">#7A7A7A</color>
+    <color name="grey_13">#ABABAB</color>
+    <color name="grey_14">#91919b</color>
+    <color name="grey_15">#e7e7e7</color>
+
+    <color name="orange_1">#FF6600</color>
+    <color name="orange_2">#F39C12</color>
+
+    <color name="pink">#E33688</color>
+
+    <color name="red">#fe0000</color>
+
+    <color name="yellow">#FFEB00</color>
+
+    <color name="black_transparent_60">#99000000</color>
+    <color name="black_transparent_50">#80000000</color>
+    <color name="black_transparent_80">#CC000000</color>
+    <color name="black_1_transparent_25">#41000000</color>
+    <color name="black_1_transparent_95">#3d3d3d</color>
+    <color name="black_3_transparent_90">#AA1B1B1B</color>
+    <color name="blue_1_transparent_85">#D9157DFB</color>
+
+    <color name="white_transparent_20">#33FFFFFF</color>
+    <color name="white_transparent_60">#99FFFFFF</color>
+    <color name="white_transparent_90">#EFFFFFFF</color>
+    <color name="white_transparent_80">#CCFFFFFF</color>
+
+    <color name="grey_transparent_100">#FF333333</color>
+    <color name="grey_4_transparent_90">#E6F7F7F7</color>
+    <color name="grey_2_transparent_60">#99D6D6D6</color>
+    <color name="grey_4_transparent_80">#CCF7F7F7</color>
+    <color name="grey_4_transparent_60">#99FFFFFF</color>
+    <color name="grey_6_transparent_80">#CC999999</color>
+
+    <color name="yellow_transparent_100">#FFFFF119</color>
+
+    <!-- PJDialog -->
+    <color name="dialog_grey_1">#666666</color>
+    <color name="dialog_grey_2">#d6d6d6</color>
+    <color name="dialog_grey_3">#e6e6e6</color>
+    <color name="dialog_blue_1">#157dfb</color>
+
+    <!-- More -->
+    <color name="toolbar_bottom_divider">#ffdf01</color>
+
+    <color name="step_pager_previous_tab_color">#4433b5e5</color>
+    <color name="step_pager_selected_tab_color">@android:color/black</color>
+    <color name="step_pager_selected_last_tab_color">#ff669900</color>
+    <color name="step_pager_next_tab_color">#10000000</color>
+    <color name="bg_account_more_tablet">#6ec5d7</color>
+    <color name="slideshow_bg">#2E2829</color>
+
+
+</resources>

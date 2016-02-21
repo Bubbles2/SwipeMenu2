@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright(c) $year PagesJaunes, SoLocal Group - All Rights Reserved.
+  ~
+  ~ Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_height="fill_parent"
+              android:layout_width="wrap_content"
+              android:orientation="vertical"
+              android:gravity="center_horizontal|center_vertical"
+              android:background="@drawable/bg_black2_pressed_blue1">
+
+    <TextView
+        android:id="@+id/lr_swipe_btn_title"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:background="@android:color/transparent"
+        android:drawablePadding="5dip"
+        android:layout_marginRight="13dip"
+        android:layout_marginLeft="13dip"
+        android:textColor="@android:color/white"
+        />
+
+</LinearLayout>

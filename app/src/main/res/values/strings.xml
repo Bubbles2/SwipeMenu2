@@ -1,0 +1,612 @@
+<resources>
+    <string name="app_name">SwipeMenu2</string>
+
+    <string name="today">"Aujourd'hui"</string>
+    <string name="yesterday">"Hier"</string>
+    <string name="or">"Ou"</string>
+    <string name="collapse">"-"</string>
+    <string name="expand">"+"</string>
+    <string name="erase">"Effacer"</string>
+    <string name="find">"Trouver"</string>
+    <string name="open_panel_label">"Ouvrir le menu latéral"</string>
+    <string name="splash_close_description">"Fermer"</string>
+    <string name="tab_description">"Onglet %1$s"</string>
+    <string name="around_me_label">"autour de moi"</string>
+    <string name="in_this_zone_search_label">"Dans cette zone"</string>
+    <string name="engine_module_pro">"PagesJaunes"</string>
+    <string name="engine_module_resident">"PagesBlanches"</string>
+    <string name="engine_module_where_reverse">Annuaire inversé</string>
+    <string name="where_label">"Où :"</string>
+    <string name="where_label_simple">"Où"</string>
+    <string name="where_label_around_me">"Où : autour de moi"</string>
+    <string name="who_what_label">"Quoi, Qui"</string>
+    <string name="who_label">"Qui, n° de téléphone"</string>
+    <string name="loading_view_search1">"PagesJaunes lance"</string>
+    <string name="loading_view_search2">"votre recherche"</string>
+    <string name="gooddeal_present">"Sur présentation de ce bon plan"</string>
+    <string name="gooddeal_partner">"en partenariat avec"</string>
+    <string name="gooddeal_book_with">"Réserver avec cette offre"</string>
+    <string name="gooddeal_book_simple">"Réservation simple"</string>
+    <string name="confirm">Confirmer</string>
+
+    <string name="select_all">"Tout sélectionner"</string>
+    <string name="fd_module_pvi_title">"Plus d´infos sur le site mobile"</string>
+    <string name="fd_module_pvi_desc">"Présentation, Activité Actualités, Catalogue&#8230;"</string>
+    <string name="fd_module_menus_menu_title">"Suggestions du chef"</string>
+    <string name="fd_module_menus_formula_title">"Formule"</string>
+    <string name="fd_module_menus_formulas_title">"Formules"</string>
+    <string name="fd_module_categories_label">"Catégorie : "</string>
+    <string name="fd_module_categories_labels">"Catégories : "</string>
+    <string name="fd_module_coords_other_title">"Plus de coordonnées"</string>
+    <string name="fd_module_services_label">"Services et prestations: "</string>
+    <string name="fd_module_schedules_label">"Horaires : "</string>
+
+    <plurals name="fd_module_siteweb">
+        <item quantity="one">Site Web : </item>
+        <item quantity="other">Sites Web : </item>
+    </plurals>
+
+    <string name="fd_module_snj">"Contacter : "</string>
+    <string name="fd_module_snj_sms">"Envoyer un SMS"</string>
+    <string name="fd_module_gooddeal_use">"J'en profite "</string>
+    <string name="fd_module_gooddeal_use_lf">"Je découvre "</string>
+
+    <string name="snj_sms_max_label">"5 SMS max. par jour et par contact"</string>
+    <string name="snj_name_label">"Votre nom (1) :"</string>
+    <string name="snj_remaining_caracters_label">"Caractères restants : "</string>
+    <string name="snj_phone_label">"Votre numéro de téléphone (1) :"</string>
+    <string name="snj_msg_label">"Votre message :"</string>
+    <string name="snj_msg_hint">"(Facultatif)"</string>
+    <string name="snj_required_desc">"(1) Nous vous informons que les données personnelles communiquées ne sont utilisées qu’aux seules fins de vous permettre de bénéficier de nos services. Conformément à la loi informatique et libertés du 6 janvier 1978 modifiée, vous disposez de droits d’accès, de modification et d’opposition aux données qui vous concernent. Vous pouvez exercer ces droits sous réserve de justifier de votre identité par courrier électronique à l’adresse : http//relationclient.pagesjaunes.fr ou par voie postale à l’adresse suivante Pagejaunes - Centre Relation Client - 7, avenue de la
+        Cristallerie - 92 317 Sèvres Cedex. "</string>
+
+    <string name="snj_required_field_msg">"Merci de bien remplir les champs obligatoires.\nSaisissez votre nom et un numéro de téléphone valide."</string>
+
+    <string name="from">"De : "</string>
+    <string name="to">"À : "</string>
+    <string name="my_position">"Ma position"</string>
+
+    <string name="ambiguity_what_nb_responses">"%1$s réponse(s)"</string>
+    <string name="ambiguity_where_zip">" (%1$s)"</string>
+    <string name="call">"Appeler"</string>
+    <string name="show_phone_number">"Afficher le n°"</string>
+    <string name="snj_contact">"Contacter"</string>
+    <string name="diselect_all">"Tout désélectionner"</string>
+
+    <string name="fd_module_tel">"Tél : "</string>
+    <string name="fd_module_fax">"Fax : "</string>
+    <string name="fd_module_tel_fax">"Tél/Fax : "</string>
+    <string name="fd_module_tel_fax_special_price">"(N° à tarif spécial)"</string>
+    <string name="fd_module_mail">"E-mail : "</string>
+
+    <string name="fd_module_lafo">"Pourquoi y aller ?"</string>
+
+    <string name="fd_module_cviv_present_restaurant">"Présence d’un restaurant</string>
+
+    <plurals name="fd_module_paymode_label">
+        <item quantity="one">"Moyen de paiement accepté : "</item>
+        <item quantity="other">"Moyens de paiement acceptés : "</item>
+    </plurals>
+
+    <string name="fd_module_guide_label">Références et guides :</string>
+    <string name="fd_module_schedules_title">"/ %1$s"</string>
+    <string name="fd_module_schedules_info">"%1$s : "</string>
+
+    <string name="fd_module_cuisines_label">"Type%1$s de cuisine : "</string>
+
+    <string name="fd_module_budget_restaurant_label">"Budget restauration : "</string>
+    <string name="fd_module_budget_hotel_label">"Tarifs hébergement : "</string>
+
+    <string name="fd_module_budget_hotel_prix">"À partir de %1$s€"</string>
+    <string name="fd_module_budget_hotel_base">"(base tarifaire %1$s)"</string>
+
+    <string name="fd_module_tel_do_not_communicate">"Opposition au marketing direct"</string>
+    <string name="mail">"E-mail"</string>
+    <string name="go">"Y aller"</string>
+    <string name="gooddeal_nb_reponses">"%1$d BON%2$s PLAN%3$s"</string>
+    <string name="your_search">"Vous avez saisi "</string>
+    <string name="pagesjaunes_propose">"PagesJaunes vous propose : "</string>
+    <string name="fd_module_see_more">"Voir Plus "</string>
+    <string name="fd_module_see_all">"Voir tous "</string>
+    <string name="fd_module_see_all_2">"Voir toutes"</string>
+    <string name="fd_module_see_more_good_deal">"de Bons Plans"</string>
+    <string name="fd_module_see_show_case">"les produits"</string>
+    <string name="fd_module_see_show_case_automoto">"les véhicules"</string>
+    <string name="fd_module_see_show_case_immo">"les annonces"</string>
+
+    <string name="fd_module_iti_gps">"GPS"</string>
+    <string name="fd_module_see_all_media">"les photos et vidéos"</string>
+
+    <string name="home_search_button">"recherche PJ"</string>
+    <string name="home_geoloc_button">"Rafraîchir ma position"</string>
+    <string name="geoloc_wait">"Recherche de votre position en cours&#8230;"</string>
+    <string name="geoloc_error_unavailable">"Votre position ne peut être déterminée."</string>
+    <string name="restart">"Relancer"</string>
+
+    <string name="geoloc_dialog_failback_message">""Souhaitez-vous utiliser la dernière position connue ?\n %1$s"</string>
+    <string name="geoloc_dialog_unavailable_message">"Rafraîchissez votre position ou vérifiez que \"Services de localisation\" est activé dans les paramètres de votre téléphone."</string>
+
+    <string name="dialog_cancel">"Refuser"</string>
+    <string name="dialog_OK">"Accepter"</string>
+    <string name="dialog_close">"Fermer"</string>
+    <string name="dialog_settings">"Réglages"</string>
+
+    <string name="menu_account">"Mon compte"</string>
+    <string name="menu_cgu_infos">"À propos"</string>
+    <string name="menu_unknown_call">"Mes appels manqués"</string>
+    <string name="menu_parameters">"Paramètres"</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_historic">Mon historique</string>
+
+    <string name="menu_choose_server">"Choix du serveur"</string>
+    <string name="menu_console">"Console de log"</string>
+    <string name="menu_feature_flipping">"Feature flipping"</string>
+    <string name="menu_contact_us">"Contactez nous"</string>
+
+    <string name="clear_unknown_call_list">"Souhaitez-vous supprimer l'historique des appels avec numéro inconnu ?"</string>
+
+    <string name="unknown_call_title">"Mes appels manqués (%d)"</string>
+    <string name="ugc_from_professional">"Photo fournie par l'établissement"</string>
+    <string name="ugc_signal">"Signaler un abus"</string>
+    <string name="rich_media_video">"%1$d VIDEO"</string>
+    <string name="rich_media_videos">"%1$d VIDEOS"</string>
+    <string name="rich_media_photo">"%1$d PHOTO"</string>
+    <string name="rich_media_photos">"%1$d PHOTOS"</string>
+    <string name="rich_media_subtitle_separator">", "</string>
+    <string name="rich_media_indicator">"%1$d sur %2$d"</string>
+
+    <string name="fd_module_add_photo">"Déposer une photo"</string>
+    <string name="fd_module_add_review">"Écrire un avis"</string>
+
+    <string name="fd_module_reviews_published">"Publié le %s"</string>
+    <string name="fd_module_reviews_contribute">"Vous aussi contribuez&#8230;"</string>
+
+    <string name="pj_partner_not_available_pop_up_title">"L'application %s n'est pas installée."</string>
+    <string name="pj_partner_not_available_pop_up_msg"> "Souhaitez-vous la télécharger maintenant ?"</string>
+    <string name="fd_popup_gps_partner">"Guidez-moi avec :"</string>
+
+    <string name="review_unconnected_title">Cher client, vous n\'êtes pas connecté à votre compte PagesJaunes.</string>
+    <string name="review_unconnected_detail">Connectez-vous ou créez un compte pour déposer un avis.</string>
+    <string name="review_signal">Signaler un abus</string>
+    <string name="review_delete">Supprimer cet avis</string>
+    <string name="review_reply">Répondre à cet avis</string>
+    <string name="review_experience_proof">A déposé un justificatif d\'expérience</string>
+    <string name="review_experience_dates">Expérience du %1$s au %2$s</string>
+    <string name="review_experience_date">Expérience du %s</string>
+    <string name="pro_replied">Le professionnel a répondu :</string>
+    <string name="sort">"Trier"</string>
+
+    <string name="detailed_review_signal_title">Signaler un abus</string>
+    <string name="detailed_review_signal_message">Vous pouvez nous signaler un contenu abusif (avis ou réponse du professionnel) en vous rendant sur la fiche du professionnel sur http://www.pagesjaunes.fr (depuis un ordinateur).</string>
+    <string name="detailed_review_delete_title">Supprimer son avis</string>
+    <string name="detailed_review_delete_message">Si vous souhaitez supprimer un de vos avis, rendez-vous dans votre compte sur http://www.pagesjaunes.fr (depuis un ordinateur) rubrique Mes avis.</string>
+    <string name="detailed_review_reply_title">Vous êtes le professionnel ?</string>
+    <string name="detailed_review_reply_message">Nous vous invitons à répondre à tous vos avis depuis votre compte professionnel sur https://businesscenter.pagesjaunes.fr (depuis un ordinateur).</string>
+
+    <string name="account_connect_username_hint">"Pseudo, email ou n° de mobile"</string>
+    <string name="account_connect_password_hint">"Mot de passe (6 caractères min)"</string>
+
+    <string name="account_create_identifer_hint">"Identifiant (email ou n° de mobile)"</string>
+    <string name="account_create_password_hint">"Mot de passe (6 caractères min)"</string>
+    <string name="account_create_password_confirm_hint">"Confirmer le mot de passe"</string>
+    <string name="account_create_optionnal_name_hint">"Nom (facultatif)"</string>
+    <string name="account_create_optionnal_firstname_hint">"Prénom (facultatif)"</string>
+    <string name="account_create_optionnal_birthday_hint">"Date de naissance (facultatif)"</string>
+    <string name="account_create_optionnal_birthday_dialog_title">"date de naissance"</string>
+
+    <string name="account_create_cgu_checkbox">"J'accepte les CGU des services du compte"</string>
+    <string name="account_create_cgu_link">"Voir les CGU des services du compte"</string>
+
+    <string name="account_create_tip_1_title">"PARTAGEZ"</string>
+    <string name="account_create_tip_1_text">"\nvos expériences avec la communauté PagesJaunes !"</string>
+    <string name="account_create_tip_3_title">"DEVENEZ"</string>
+    <string name="account_create_tip_3_text">"\nambassadeur de la communauté PagesJaunes !"</string>
+    <string name="account_create_tip_2_title">"ENRICHISSEZ"</string>
+    <string name="account_create_tip_2_text">"\nles contenus sur vos professionnels"</string>
+
+    <string name="account_create_tip_4_title_non_bold">"PagesJaunes obtient la "</string>
+    <string name="account_create_tip_4_title">"CERTIFICATION NF SERVICE"</string>
+    <string name="account_create_tip_4_text">" pour la gestion des avis en ligne"</string>
+
+    <string name="account_create_error_title">"Erreur de saisie"</string>
+    <string name="account_create_error_compulsory_message">"Veuillez saisir un identifiant et un mot de passe valides."</string>
+    <string name="account_create_error_too_young_message">"Vous devez être agé d'au moins 13 ans pour créer un compte."</string>
+    <string name="account_create_error_name_firstname">"Veuillez saisir un nom et prénom valides."</string>
+
+    <string name="account_create_success_title">"Félicitations, votre compte PagesJaunes a été créé !"</string>
+    <string name="account_create_success_sms">"Un SMS de confirmation va vous être envoyé.\nCliquez sur le lien contenu dans le SMS pour activer votre compte PagesJaunes.\nLes infos de votre compte sont modifiables sur pagesjaunes.fr depuis un poste fixe."</string>
+    <string name="account_create_success_mail">"Un email de confirmation va vous être envoyé.\nCliquez sur le lien contenu dans l'email pour activer votre compte.\nLes infos de votre compte sont modifiables sur pagesjaunes.fr depuis un poste fixe."</string>
+
+    <string name="forgotten_password_title">"Mot de passe oublié"</string>
+    <string name="forgotten_password_text">"Saisissez l'adresse email ou le numéro de mobile que vous avez utilisé pour créer votre compte. Vous recevrez un email ou un SMS pour réinitialiser votre mot de passe."</string>
+    <string name="forgotten_password_placeholder">"Email ou n° de mobile"</string>
+    <string name="forgotten_password_btn_send">"Envoyer"</string>
+    <string name="account_recovery_password_mail">"Pour réinitialiser votre mot de passe, un email vous a été envoyé à l'adresse"</string>
+    <string name="account_recovery_password_phone">"Pour réinitialiser votre mot de passe, un SMS vous a été envoyé au numéro"</string>
+
+    <string name="account_create_still_not">"Pas encore "</string>
+    <string name="account_create_recorded">"inscrit ?"</string>
+
+    <string name="facebook">"Facebook"</string>
+    <string name="connect_with">"Se connecter avec "</string>
+    <string name="create_with">"S'inscrire avec "</string>
+
+    <string name="create">"S'inscrire"</string>
+    <string name="connect">"Connexion"</string>
+    <string name="disconnect">"Déconnexion"</string>
+    <string name="password_forget">"Mot de passe oublié ?"</string>
+
+    <string name="account_reviews_published">"%1$s avis publié%2$s"</string>
+    <string name="account_fidelity_points">"%1$s pts"</string>
+    <string name="account_age">"(%1$d ans)"</string>
+    <string name="account_phone_number">"N° mobile : %1$s"</string>
+
+    <string name="first_review">Soyez le 1er à écrire un avis&#8230;</string>
+    <string name="a_separator">"à"</string>
+    <string name="no_activity_review">Cette note ne porte pas sur les activités :\n%s</string>
+    <string name="no_review">Ce Professionnel ne souhaite pas\nrecevoir d\'avis</string>
+
+    <string name="fb_cancel">"Vous avez annulé la connexion."</string>
+    <string name="fb_connect_generic_error">"Un problème est survenu lors de la connexion avec votre profil Facebook.\nVeuillez réessayer."</string>
+
+    <string name="signal_reason">Sélectionner la raison du signalement :</string>
+    <string name="spinner_choose">Veuillez choisir parmi les propositions</string>
+    <string name="comment">Commentaire :</string>
+    <string name="char_left">Caractères restants : %d</string>
+    <string name="edito">"Charte éditoriale"</string>
+    <string name="photo_signal_ok">Votre signalement d\'abus a bien été déposé et sera soumis à la validation de nos modérateurs.</string>
+
+    <string name="create_reviews_note_announcer">"Notez ce professionnel"</string>
+    <string name="create_reviews_experience">"Votre expérience :"</string>
+    <string name="create_reviews_experience_hint">Votre avis doit être le reflet de votre expérience personnelle. N\'hésitez pas à donner des détails (heures d\'ouverture, prix…) pour donner des informations à la communauté PagesJaunes.</string>
+    <string name="create_reviews_character_remain_format">"Caractères min : %s"</string>
+    <string name="create_reviews_character_count_format">"%1$s / %2$s"</string>
+    <string name="create_reviews_cgu">"Charte éditoriale"</string>
+    <string name="create_reviews_criterion">"Précisez votre note selon ces critères :"</string>
+    <string name="create_reviews_date_consume">"Date ou durée d'expérience :"</string>
+    <string name="create_reviews_date_start_from">"Du : %s"</string>
+    <string name="create_reviews_date_start">"Le : %s"</string>
+    <string name="create_reviews_date_end">"Au : %s"</string>
+    <string name="create_reviews_date_end_add">"Ajouter une date de fin"</string>
+    <string name="create_reviews_date_end_delete">"Supprimer la date de fin"</string>
+    <string name="create_reviews_detail">"Détaillez votre avis "</string>
+    <string name="create_reviews_detail_review_title">"Titre de votre avis :"</string>
+    <string name="optionnal">"(facultatif)"</string>
+    <string name="create_reviews_like">"Les + :"</string>
+    <string name="create_reviews_like_hint">"Exemples :\nL\'accès gratuit à la piscine de l'hôtel\nLes profiteroles géantes !"</string>
+    <string name="create_reviews_dislike">"Les - :"</string>
+    <string name="create_reviews_dislike_hint">"Exemples :\nPas de place pour se garer devant le garage\nPeu de choix pour les tailles au-delà du 38"</string>
+    <string name="create_reviews_justification">"Justificatif d'expérience :"</string>
+    <string name="create_reviews_detail_review_experience_ugc">"Attestez de votre présence chez ce professionnel en joignant un ticket, une facture ou photo du lien. "</string>
+
+    <string name="create_reviews_cancel_popup_title">"Partage de votre expérience"</string>
+    <string name="create_reviews_cancel_popup_message">"Êtes-vous certain de vouloir quitter le formulaire ?\nL'ensemble de votre saisie sera perdu."</string>
+    <string name="create_reviews_choose_activity_popup_title">"Sur quelle activité porte votre avis ?"</string>
+
+    <string name="create_reviews_sucess_popup_title">"Merci pour votre contribution"</string>
+    <string name="create_reviews_sucess_popup_message">"Votre avis a bien éte soumis à modération. \nVous serez informés dès la publication de celui-ci."</string>
+
+    <string name="create_reviews_all_activities_created_message">"Vous avez déjà partagé votre expérience pour toutes les activités du professionnel. Vous pouvez modifier vos avis sur www.pagesjaunes.fr depuis un ordinateur."</string>
+
+    <string name="add">"Ajouter"</string>
+    <string name="see_more">"En savoir plus"</string>
+    <string name="read_more">"Lire plus"</string>
+    <string name="activity">"Activité : "</string>
+    <string name="choose_date_title">"Choisir une date"</string>
+
+    <string name="modify">"Modifier"</string>
+
+    <string name="about_cgu_compte">CGU du compte</string>
+    <string name="about_cgu_compte_services">CGU des services du compte</string>
+    <string name="about_charte">Charte éditoriale</string>
+    <string name="about_info_edit">Infos éditeur</string>
+
+    <string name="unknown_call_popup_title">"Souhaitez-vous que \"PagesJaunes\" cherche à qui appartient ce numéro ?"</string>
+    <string name="unknown_call_popup_description">"Cette fonction est désactivable dans les paramètres"</string>
+    <string name="unknown_call_popup_this_time">"Oui, cette fois-ci"</string>
+    <string name="unknown_call_popup_everytime">"Toujours"</string>
+
+    <string name="settings_clear_history_tile">"Historique de recherche :"</string>
+    <string name="settings_clear_history_label">"En désactivant, vous effacez l’ensemble de votre historique et vos prochaines recherches/consultations ne seront plus mémorisées"</string>
+    <string name="settings_unknown_call_title">"Notifications pour appels manqués :"</string>
+    <string name="settings_description">"Vous acceptez de recevoir ces notifications"</string>
+    <string name="settings_optout_out_app_description">"Vous acceptez de recevoir des notifications"</string>
+    <string name="settings_optout_in_app_description">"Vous acceptez de recevoir des messages qui font la promotion de nouveaux services"</string>
+    <string name="settings_optout_target_description">"Les messages éditoriaux affichés dans notre application sont personnalisés par rapport à vos centre d'intérêts et, éventuellement, votre localisation en fonction des choix que vous avez exprimés."</string>
+    <string name="settings_optout_out_app_title">"Notifications :"</string>
+    <string name="settings_optout_in_app_title">"Promotions des services :"</string>
+    <string name="settings_optout_target_title">"Messages éditoriaux personnalisés :"</string>
+
+    <string name="copyright">Version %s - ©PagesJaunes</string>
+    <string name="number_118008">"118 008"</string>
+
+    <string name="unknown_call_notif_call_count">" appels"</string>
+    <string name="unknown_call_notif_subtitle">"Qui est "</string>
+    <string name="mosaic_easter_unlock_text">Vive la A-Team!</string>
+    <string name="mosaic_easter_lock_text">Au revoir la A-Team!</string>
+
+    <string name="history_my">"Mon historique"</string>
+    <string-array name="history_tabs">
+        <item>"Tous"</item>
+        <item>"Mes recherches"</item>
+        <item>"Mes fiches consultées"</item>
+    </string-array>
+    <string name="history_no_result">"Votre historique de fiches consultées est vide."</string>
+    <string name="history_no_search">"Votre historique de recherche est vide."</string>
+    <string name="history_no_all">"Votre historique est vide."</string>
+    <string name="history_fd_download_error_time1">"Vous êtes hors connexion"</string>
+    <string name="history_fd_download_error_time2">"Aïe, toujours pas de connexion"</string>
+    <string name="history_fd_download_error_time3">"Allez, on retente sa chance"</string>
+    <string name="history_fd_download_error_time4">"Etes-vous dans un tunnel ?"</string>
+    <string name="history_delete_popup_message">"Souhaitez-vous effacer l’intégralité des éléments ?"</string>
+    <string name="history_delete_items_popup_message">"Etes-vous certain de vouloir effacer les éléments sélectionnés ?"</string>
+    <string name="create_account_identifier_error">"Format incorrect"</string>
+    <string name="create_account_password_confirmation_error">"Confirmation du mot de passe incorrecte"</string>
+    <string name="fd_not_found">"Ce professionel n'est plus référencé sur PagesJaunes."</string>
+
+    <string name="hp_pb_page_no_autocomplete_historic_text">"Saisissez un nom \nou un numéro\nde téléphone"</string>
+    <string name="hp_pj_page_no_autocomplete_historic_text">"Vous pouvez saisir \nune activité, un nom \nou un numéro \nde téléphone."</string>
+
+    <string name="sort_filter_reset">Réinitialiser</string>
+    <string name="sort_filter_sort">Trier par :</string>
+    <string name="sort_filter_filter">Filtrer par :</string>
+    <string name="sort_filter_services">Services</string>
+    <string name="sort_filter_no_filter">"Les filtres ne sont pas disponibles !"</string>
+    <string name="sort_filter_retry">"Erreur de chargement. Réessayer"</string>
+    <string name="sort_filter_retry_end_char">"."</string>
+    <string name="sort_filter_budget">Budget</string>
+
+    <string name="afnor_fd_label">"PagesJaunes certifié NF Service !"</string>
+    <string name="afnor_title">"PagesJaunes obtient la certification NF Service "</string>
+    <string name="afnor_subtitle">"pour la gestion des avis en ligne"</string>
+    <string name="afnor_about">"PagesJaunes certifié NF service !\nCette certification consacre la transparence et la fiabilité de la gestion des avis en ligne."</string>
+
+    <!-- WIDGET -->
+    <string name="widget_mosaic_title_system">"PagesJaunes - Recherchez autour de vous"</string>
+
+    <string name="widget_personalise">"Recherchez autour de vous"</string>
+    <string name="widget_personalise_tutorial">"Déplacez l'ordre des activités selon vos préférences."</string>
+    <string name="widget_pre_personalise">"Vous préférez les coiffeurs aux hôtels ? Pas de problème : modifiez l'ordre de vos rubriques."</string>
+
+    <string name="widget_mosaic_title">"Recherchez autour de vous"</string>
+    <string name="widget_mosaic_configuration_title">"Personnalisez votre widget"</string>
+
+    <string name="widget_no_location">"Pour profiter de contenus personnalisés selon votre position, activez votre localisation\n"</string>
+    <string name="widget_cyclic_title_system">PagesJaunes - Autour de moi</string>
+    <string name="widget_other">"Envie d'autre chose ?\nC'est possible sur PagesJaunes…"</string>
+    <string name="widget_history_title_system">"PagesJaunes - Mes fiches consultées"</string>
+    <string name="widget_history_title">"Mes fiches consultées"</string>
+    <string name="widget_history_empty">"Vous n'avez pas encore consulté de fiches sur PagesJaunes ! Utilisez votre appli et retrouvez les ici plus facilement."</string>
+    <!-- END WIDGET -->
+
+    <string name="previous">"précédent"</string>
+    <string name="next">"suivant"</string>
+    <string name="debug_mode_server_editor_item_hint">"http://xxx.mob.pagesjaunes.fr/"</string>
+
+    <string name="back_to_app">"retour à l'application"</string>
+    <string name="add_to_contact">"+"</string>
+
+    <string name="euro">"€"</string>
+
+    <string name="gooddeal">"Bon Plan : "</string>
+    <string name="loading_view_error">"Erreur de chargement \nRéessayez"</string>
+    <string name="loading_view_error_suffix">"\nRéessayer"</string>
+    <string name="loading_view_error_sort_filter">"Nous n'avons pas de résultat correspondant à votre sélection."</string>
+    <string name="slash">"/"</string>
+    <string name="wrong_geocode">"Position approximative"</string>
+    <string name="refresh_map">"Relancer la recherche"</string>
+    <string name="lr_map_no_results">"PagesJaunes n'a pas trouvé de réponses à votre recherche"</string>
+    <string name="lr_map_no_results_map_item_msg">"Modifiez la zone \nde votre recherche"</string>
+    <string name="choose">"Choisir"</string>
+    <string name="cancel">"Annuler"</string>
+    <string name="accept">"Accepter"</string>
+    <string name="valid">"Valider"</string>
+    <string name="refuse">"Refuser"</string>
+    <string name="close">"Fermer"</string>
+    <string name="save">"Enregistrer"</string>
+    <string name="error_loading">"Erreur de chargement"</string>
+    <string name="fd_popup_tel_title_call">"appeler"</string>
+    <string name="fd_popup_tel_title_more_phones">"plusieurs numéros de téléphones sont disponibles"</string>
+    <string name="fd_popup_tel_title_special_price">"numéro à tarif spécial"</string>
+    <string name="fd_popup_tel_title_nosurtax_price">"numéro non surtaxé"</string>
+    <string name="fd_popup_tel_title_more_mails">"plusieurs E-mails sont disponibles"</string>
+    <string name="fd_popup_tel_title_one_mail">"un E-mail est disponible"</string>
+    <string name="fd_popup_tel_designation_tel">"Téléphone"</string>
+    <string name="retry">"Réessayer"</string>
+    <string name="reload">"Recharger"</string>
+
+    <string name="opened">"Ouvert"</string>
+    <string name="popup_no_connection_title">"Réseau indisponible"</string>
+    <string name="ok">"OK"</string>
+    <string name="no">"Non"</string>
+    <string name="yes">"Oui"</string>
+    <string name="error">"Erreur"</string>
+    <string name="error_message">"Une erreur est survenue"</string>
+    <string name="error_message_network">"Merci de vérifier votre connexion à Internet pour utiliser nos services."</string>
+    <string name="error_message_login_pj">"Vous n'avez pas pu vous connecter. Réessayez plus tard."</string>
+    <string name="debug_mode">"Mode Debug"</string>
+
+    <string name="lr_module_infos_menu_description">"Menu"</string>
+    <string name="lr_module_infos_immo_description">"Immobilier"</string>
+    <string name="lr_module_infos_video_description">"Videos"</string>
+    <string name="lr_module_infos_schedule_description">"Horaires"</string>
+    <string name="lr_module_infos_pvi_description">"Site Mobile"</string>
+    <string name="lr_module_infos_siteweb_description">"Site Web"</string>
+    <string name="lr_module_infos_reserve_description">"Reserver"</string>
+    <string name="lr_module_infos_ecommercial_description">"E-Commerce"</string>
+    <string name="lr_module_infos_RDV_description">"Prendre RDV"</string>
+    <string name="lr_module_infos_order_description">"Commander"</string>
+    <string name="lr_module_infos_product_description">"Produits et services"</string>
+    <string name="lr_module_infos_auto_moto">"Auto Moto"</string>
+    <string name="lr_module_infos_restaurant_description">"Restaurant"</string>
+    <string name="lr_module_keyword_description">"Mots clés : "</string>
+
+    <string name="lr_module_RDV_transac">"Prendre rendez-vous"</string>
+    <string name="lr_module_RDV_transac_description">"Prendre rendez-vous"</string>
+
+    <plurals name="lr_module_nb_responses">
+        <item quantity="one">%d réponse</item>
+        <item quantity="other">%d réponses</item>
+    </plurals>
+    <string name="lr_module_sort">Filtrer</string>
+    <string name="loading_view_default">"Chargement&#8230;"</string>
+    <string name="loading">Chargement</string>
+    <string name="in_progress">en cours</string>
+
+    <string name="old_reviews">%d avis</string>
+    <string name="review_value_description">Note de %d sur 5</string>
+
+    <string name="add_contact_confirmation">"Le contact a bien été ajouté au répertoire de votre téléphone."</string>
+
+    <string name="fd_floating_photo">photo</string>
+    <string name="fd_floating_review">avis</string>
+    <string name="fd_floating_contact">contact</string>
+    <string name="fd_floating_share">partage</string>
+
+    <string name="webview_no_app_for_this_link">"Aucune application n'est capable d'ouvrir ce lien"</string>
+
+    <string name="stat_optout">Vos cookies de statistiques sont désactivés</string>
+    <string name="stat_optin">Vos cookies de statistiques sont activés</string>
+    <string name="hosting">"Hébergement "</string>
+    <plurals name="fd_module_categories_epi">
+        <item quantity="one">épi</item>
+        <item quantity="other">épis</item>
+    </plurals>
+    <plurals name="fd_module_categories_star">
+        <item quantity="one">étoile</item>
+        <item quantity="other">étoiles</item>
+    </plurals>
+    <plurals name="fd_module_categories_key">
+        <item quantity="one">clé</item>
+        <item quantity="other">clés</item>
+    </plurals>
+
+    <string name="feature_flipping">activation des features</string>
+    <string name="lr_module_popup_text">Les tris et filtres ne sont pas disponibles</string>
+
+    <string name="fd_share_title">"Partager avec :"</string>
+    <string name="fd_share_sms_content">"J'ai repéré sur PagesJaunes %1$s : %2$s. %3$s. Qu'en penses-tu ?"</string>
+    <string name="fd_share_email_subject">"Je partage avec toi %1$s"</string>
+    <string name="fd_share_email_content">"J'ai repéré sur PagesJaunes %1$s : \n\n%2$s.\n\n%3$s avis avec une note de %4$s/5.\n\n%5$s\n\nQu'en penses-tu ?"</string>
+
+    <string name="fd_photo_signal_popup_message">"Vous pouvez nous signaler le caractère abusif de cette photo sur pagesjaunes.fr depuis un ordinateur."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google +</string>
+    <string name="linked_in">LinkedIn</string>
+    <string name="more_account_email_label">Email</string>
+    <string name="more_account_password_label">Mot de passe</string>
+
+    <string name="more_account_email_hint">nom@email.fr</string>
+    <string name="more_account_connect_password_hint">6 caractères minimum</string>
+    <string name="more_account_create_password_hint">8 caractères minimum</string>
+
+    <string name="account_more_where_label">"Ou"</string>
+    <string name="account_more_connect_toolbar_title">Connexion</string>
+    <string name="account_more_cgu_global_title">CGU du compte</string>
+    <string name="account_more_cgu_pj_title">CGU des services du compte</string>
+    <string name="more_account_create_email_password_toolbar_title">Inscription</string>
+    <string name="account_more_details_toolbar_title">Mon compte</string>
+    <string name="account_more_connect">Se connecter</string>
+    <string name="account_more_connect_invalid_login_or_password_error">L\'email et/ou le mot de passe sont incorrects. Veuillez réessayer.</string>
+    <string name="account_more_connect_error">Erreur de connexion</string>
+
+    <string name="account_more_activation_title">Activez votre compte !</string>
+    <string name="account_more_first_activation_message1"><![CDATA[<big>Merci <b>%1$s,</b></big><br /><br />Un email de confirmation vient de vous être envoyé à l\'adresse\u00a0:<br /><br /><b>%2$s</b>]]></string>
+    <string name="account_more_first_activation_message2">Vérifiez vos emails et cliquez sur le lien pour activer votre compte.</string>
+    <string name="account_more_activation_message"><![CDATA[Pour accéder à cet espace, merci d\'<b>activer votre compte.</b><<br /><br />Vérifiez vos emails et cliquez sur le lien envoyé à l\'adresse\u00a0:<br /><br /><br /><b>%1$s</b>]]></string>
+    <string name="account_more_activation_message_logout">Vous n\'êtes pas %1$s\u00a0?</string>
+    <string name="account_more_activation_button_emails">Consulter ses emails</string>
+    <string name="account_more_activation_button_logout"><u>Se déconnecter</u></string>
+    <string name="account_more_activation_dialog_logout_message">%1$s, êtes-vous sûr de vouloir vous déconnecter ?</string>
+
+    <string name="more_account_carousel_signin_clock"><![CDATA[Inscrivez-vous en <b>moins d\'une minute</b> pour …]]></string>
+    <string name="more_account_carousel_signin_review"><![CDATA[<b>partager votre avis</b> sur les professionnels que vous connaissez]]></string>
+    <string name="more_account_carousel_signin_order"><![CDATA[<b>prendre rendez-vous</b> avec un professionnel]]></string>
+    <string name="more_account_carousel_signin_deliver"><![CDATA[<b>commander votre repas</b> directement depuis l\'application]]></string>
+    <string name="more_account_carousel_signin_cake"><![CDATA[et accéder aux services de <b>Hamak</b> avec votre compte.]]></string>
+
+    <string name="account_more_cgu_pj_or_group">"J'accepte les %1$s"</string>
+    <string name="account_more_cgu_pj_or_group_link_group">"conditions générales d'utilisation du compte"</string>
+    <string name="account_more_cgu_pj_or_group_link_pj">"conditions générales des services du compte PagesJaunes"</string>
+    <string name="account_more_cgu_pj_and_group">"J'accepte les %1$s et des %2$s"</string>
+    <string name="account_more_cgu_pj_and_group_link_group">@string/account_more_cgu_pj_or_group_link_group</string>
+    <string name="account_more_cgu_pj_and_group_link_pj">"services du compte PagesJaunes"</string>
+    <string name="account_more_cgu_header_title">"Bienvenue sur votre compte !"</string>
+    <string name="account_more_cgu_header_message">"Merci d\'accepter nos conditions d\'utilisation avant d\'accéder aux services PagesJaunes."</string>
+    <string name="account_more_cgu_email_header_message">"Votre email n\'est pas renseigné sur votre compte %1s. Merci de l\'indiquer et d\'accepter nos conditions d\'utilisation avant d\'accéder à nos services."</string>
+    <string name="account_more_cgu_update_header_title">"Du nouveau !"</string>
+    <string name="account_more_cgu_update_header_message">"Nous avons actualisé nos conditions d\'utilisation. Merci de les accepter avant de continuer."</string>
+
+    <string name="continuer">Continuer</string>
+    <string name="more_account_input_password_error_message">8 caractères min avec au moins 1 lettre et 1 chiffre</string>
+    <string name="more_account_input_email_error_message">3 à 20 caractères: a-z, A-Z, 0-9, une lettre min </string>
+
+    <string name="account_more_connect_social_error_message">Nous n\'avons pu vous connecter à %1s</string>
+    <string name="account_more_connect_social_error_title_login_exists">Un compte existe déjà</string>
+    <string name="account_more_connect_social_error_message_login_exists">L\'adresse email utilisée dans votre compte %1s appartient déjà à un compte existant.\nEssayez de vous connecter en utilisant cette adresse email ou via un autre réseau social.</string>
+    <string name="account_more_connect_cgu_cancelled_message">Etes-vous sûr de vouloir quitter ?</string>
+    <string name="more_account_clear_password_desc">clear password</string>
+    <string name="more_account_clear_email_desc">clear email</string>
+    <string name="pattern_view_status_content_description_invalid">invalid status</string>
+    <string name="pattern_view_status_content_description_valid">valid status</string>
+    <string name="more_account_create_register_text">Inscription au compte</string>
+    <string name="more_account_register_success">Inscription reussie</string>
+    <string name="more_account_connect_bottom_label_one">Pas encore membre ?</string>
+    <string name="more_account_connect_bottom_label_two">Inscrivez-vous maintenant</string>
+    <string name="account_more_create_prevalidate_email_error_message">L’email appartient déjà à un compte existant. Saisissez-en un autre ou connectez-vous en utilisant cet email</string>
+    <string name="account_more_create_prevalidate_email_error_message_title">Email existant</string>
+    <string name="more_account_create_alias_toolbar_title">Mon pseudo</string>
+    <string name="ok.more">Ok</string>
+    <string name="more_account_profile_alias_header_text"><![CDATA[Votre pseudo signe vos <b>avis.</b><br/>Vous pouvez le changer !]]></string>
+    <string name="more_account_profile_city_header_text"><![CDATA[Profitez d\'un service personnalisé<br/> adapté à <b>votre ville !</b>]]></string>
+    <string name="more_account_profile_name_header_text"><![CDATA[Ces informations nous permettent<br/>de mieux vous connaître !]]></string>
+    <string name="more_account_profile_birth_date_header_text"><![CDATA[Sans oublier votre <b>date de naissance\u00a0!</b>]]></string>
+    <string name="more_account_profile_label_pseudo">Pseudo</string>
+    <string name="more_account_profile_input_alias_hint">De 3 à 20 caractères</string>
+    <string name="more_account_clear_alias_desc">clear alias</string>
+    <string name="more_account_input_alias_error_message">3 à 20 caractères : a-z, A-Z, 0-9, une lettre min.</string>
+    <string name="more_account_profile_label_lastname">Nom</string>
+    <string name="more_account_profile_input_name_hint">(facultatif)</string>
+    <string name="more_account_clear_fistname_desc">clear firstname</string>
+    <string name="more_account_profile_label_fistname">Prénom</string>
+    <string name="more_account_clear_lastname_desc">clear lastname</string>
+    <string name="more_account_create_name_toolbar_title">Mon profil</string>
+
+    <string name="more_account_create_city_toolbar_title">Ma ville</string>
+    <string name="more_account_profile_label_code_postal">Code postal</string>
+
+    <string name="more_account_clear_city_desc">clear city</string>
+    <string name="more_account_profile_input_city_hint">(5 chiffres)</string>
+
+    <string name="more_account_profile_input_birth_date_hint">(facultatif)</string>
+    <string name="more_account_profile_label_birth_date">Date de\nnaissance</string>
+    <string name="more_account_create_birth_date_toolbar_title">Mon profil</string>
+
+    <string name="more_module_forgotten_password_toolbar_title">Mot de passe oublié</string>
+    <string name="more_module_forgotten_password_header_text">Indiquez l\'adresse email utilisée lors de votre inscription. Nous vous enverrons un lien pour changer de mot de passe.</string>
+    <string name="account_more_reset_password_error">L’email saisi ne correspond à aucun compte. Merci de renseigner un autre email ou créez votre compte.</string>
+    <string name="account_more_reset_password_success">Vérifiez vos emails, un lien vous a été envoyé à l’adresse\u00a0: %1$s</string>
+
+    <string name="phone_category_free_content_desc">Service et appel gratuits</string>
+    <string name="phone_category_banalise_content_desc">Service gratuit prix appel</string>
+    <string name="more_account_update_details_info_label">Actualiser mes infos</string>
+    <string name="more_account_details_delete_review_label">Supprimer un avis ?</string>
+    <string name="more_account_details_delete_review_text">Rendez-vous sur notre site www.pagesjaunes.fr, dans votre espace \"Mon compte / Mes contributions\" pour supprimer un ou plusieurs avis que vous avez déposé sur des professionnels.</string>
+    <string name="more_account_details_update_info_text">Connectez-vous sur notre site www.pagesjaunes.fr, dans votre espace « Mon compte / Mon profil » pour modifier vos informations (pseudo, mot de passe,…).</string>
+
+    <plurals name="numberOfReviews">
+        <item quantity="one"><![CDATA[<b>%d</b> avis publié]]></item>
+        <item quantity="other"><![CDATA[<b>%d</b> avis publiés]]></item>
+    </plurals>
+
+    <string name="more_account_disconnect_alert">%1$s, êtes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="more_account_no_review_message">Vous n\'avez pas encore publié d\'avis</string>
+    <string name="account_more_details_user_logo">user logo</string>
+    <string name="account_more_details_review_pict">review pict</string>
+    <string name="account_more_details_header_background">header background</string>
+    <string name="ais_title_share">Partagez</string>
+    <string name="ais_title_your_experience">votre expérience</string>
+</resources>

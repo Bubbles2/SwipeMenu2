@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/sluu/Documents/Projects/A4SSDK/a4ssdk/src/main/res/values/com_ad4screen_sdk_colors.xml -->
+    <eat-comment/>
+    <color name="grey_1_transparent_80">#CCCCCCCC</color>
+    <color name="grey_2_transparent_80">#CCFFFFFF</color>
+    <color name="grey_3_transparent_80">#CCF5F5F5</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="Window"><attr format="dimension|fraction" name="com_ad4screen_sdk_windowWidthMajor"/><attr format="dimension|fraction" name="com_ad4screen_sdk_windowWidthMinor"/></declare-styleable>
+    <!-- From: file:/Users/sluu/Documents/Projects/A4SSDK/a4ssdk/src/main/res/values/com_ad4screen_sdk_dimen.xml -->
+    <eat-comment/>
+    <dimen name="com_ad4screen_sdk_banner_size">60dp</dimen>
+    <item name="com_ad4screen_sdk_banner_width" type="dimen">-1</item>
+    <dimen name="com_ad4screen_sdk_close_size">28dip</dimen>
+    <item name="com_ad4screen_sdk_dialog_width_major" type="dimen">65%</item>
+    <item name="com_ad4screen_sdk_dialog_width_minor" type="dimen">95%</item>
+    <dimen name="com_ad4screen_sdk_navbar_button_size">60dp</dimen>
+    <!-- From: file:/Users/sluu/Documents/Projects/A4SSDK/a4ssdk/src/main/res/values/com_ad4screen_sdk_ids.xml -->
+    <eat-comment/>
+    <item name="com_ad4screen_sdk_backbutton" type="id"/>
+    <item name="com_ad4screen_sdk_body" type="id"/>
+    <item name="com_ad4screen_sdk_browsebutton" type="id"/>
+    <item name="com_ad4screen_sdk_closebutton" type="id"/>
+    <item name="com_ad4screen_sdk_forwardbutton" type="id"/>
+    <item name="com_ad4screen_sdk_logo" type="id"/>
+    <item name="com_ad4screen_sdk_progress" type="id"/>
+    <item name="com_ad4screen_sdk_reloadbutton" type="id"/>
+    <item name="com_ad4screen_sdk_title" type="id"/>
+    <item name="com_ad4screen_sdk_webview" type="id"/>
+    <!-- From: file:/Users/sluu/Documents/Projects/A4SSDK/a4ssdk/src/main/res/values/com_ad4screen_sdk_strings.xml -->
+    <eat-comment/>
+    <string name="a4s_content_back">"Retour"</string>
+    <string name="a4s_next">"Suivant"</string>
+    <string name="a4s_popup_dismiss">"Fermer"</string>
+    <string name="a4s_popup_open">"Ouvrir"</string>
+    <string name="a4s_previous">"Précédent"</string>
+    <string name="a4s_webview_back">"Retour appli PJ"</string>
+    <string name="a4s_webview_loading_text">"Chargement en cours"</string>
+    <!-- From: file:/Users/sluu/Documents/Projects/A4SSDK/a4ssdk/src/main/res/values/com_ad4screen_sdk_styles.xml -->
+    <eat-comment/>
+    <style name="com_ad4screen_sdk_theme_interstitial" parent="@android:style/Theme.NoTitleBar"/>
+    <style name="com_ad4screen_sdk_theme_popup" parent="@android:style/Theme.Dialog">
+        <item name="com_ad4screen_sdk_windowWidthMajor">@dimen/com_ad4screen_sdk_dialog_width_major</item>
+        <item name="com_ad4screen_sdk_windowWidthMinor">@dimen/com_ad4screen_sdk_dialog_width_minor</item>
+	</style>
+</resources>

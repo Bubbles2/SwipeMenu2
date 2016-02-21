@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="appli_start" />
+    <item type="id" name="mosaic"/>
+    
+    <item type="id" name="geoloc_popup_lastknown"/>
+    <item type="id" name="geoloc_popup_lastknown_accept"/>
+    <item type="id" name="geoloc_popup_lastknown_deny"/>
+    <item type="id" name="geoloc_popup_unavailable"/>
+    <item type="id" name="geoloc_popup_unavailable_close"/>
+    <item type="id" name="geoloc_popup_unavailable_settings"/>
+    
+    <item type="id" name="error_popup_network"/>
+    <item type="id" name="error_popup_ci"/>
+    <item type="id" name="error_popup_other"/>
+    <item type="id" name="error_popup_network_retry"/>
+    
+    <item type="id" name="top_module_glasssearch"/>
+    
+    <item type="id" name="lr_firstmap_d"/>
+    <item type="id" name="lr_map"/>
+    <item type="id" name="lr_map_poi"/>
+    
+    <item type="id" name="fditem_website"/>
+    <item type="id" name="fditem_freewebsite"/>
+    
+    <item type="id" name="fditem_richmedia_slide"/>
+    <item type="id" name="fditem_richmedia_click"/>
+    <item type="id" name="viewer_click"/>
+    <item type="id" name="videoplayer_display"/>
+    
+    <item type="id" name="fditem_gooddeal_slide"/>
+    <item type="id" name="fditem_gooddeal_click"/>
+    <item type="id" name="fditem_gooddeal_lf_slide"/>
+    <item type="id" name="fditem_gooddeal_lf_click"/>
+
+    <item type="id" name="gooddeal_display"/>
+    <item type="id" name="gooddeal_lafo_display"/>
+    <item type="id" name="gooddeal_back"/>
+    
+    <item type="id" name="fditem_show_case_click"/>
+    <item type="id" name="fditem_show_case_all_click"/>
+    
+    <item type="id" name="detailed_review_display"/>
+    
+    <item type="id" name="leave_review_cancel_popup"/>
+    <item type="id" name="leave_review_confirm_popup"/>
+
+    <item type="id" name="lr_swipe_right_item_call"/>
+    <item type="id" name="lr_swipe_right_item_call_confirm"/>
+    <item type="id" name="lr_swipe_right_item_callpopup"/>
+    <item type="id" name="lr_swipe_right_item_callpopup_confirm"/>
+    <item type="id" name="lr_swipe_right_item_callpopup_url"/>
+    <item type="id" name="lr_swipe_right_item_call_popup"/>
+
+    <item type="id" name="lr_swipe_right_item_goto"/>
+    <item type="id" name="lr_swipe_right_item_reserve"/>
+    <item type="id" name="lr_swipe_right_item_reserve_lafo"/>
+    <item type="id" name="lr_swipe_right_item_meet"/>
+    <item type="id" name="lr_swipe_right_item_buy"/>
+    <item type="id" name="lr_swipe_right_item_order"/>
+    <item type="id" name="lr_swipe_right_item_mail"/>
+
+
+    <item type="id" name="lr_swipe_left_add_review"/>
+    <item type="id" name="lr_swipe_left_add_contact"/>
+    <item type="id" name="lr_swipe_left_share"/>
+
+    <item type="id" name="fditem_actionbar_call"/>
+    <item type="id" name="fditem_actionbar_show_phone_number"/>
+    <item type="id" name="fditem_actionbar_goto"/>
+    <item type="id" name="fditem_actionbar_reserve"/>
+    <item type="id" name="fditem_actionbar_reserve_lafo"/>
+    <item type="id" name="fditem_actionbar_meet"/>
+    <item type="id" name="fditem_actionbar_order"/>
+    <item type="id" name="fditem_actionbar_mail"/>
+    <item type="id" name="fditem_actionbar_snj"/>
+    <item type="id" name="fditem_actionbar_buy"/>
+    
+    <item type="id" name="snj_confirm_popup"/>
+    
+    <item type="id" name="fditem_callpopup"/>
+    <item type="id" name="fditem_callpopup_confirm"/>
+    <item type="id" name="fditem_callpopup_url"/>
+    <item type="id" name="fditem_actionbar_call_confirm"/>
+    <item type="id" name="fditem_actionbar_call_popup"/>
+    <item type="id" name="fditem_call_confirm"/>
+    <item type="id" name="fditem_call_popup"/>
+    
+    <item type="id" name="missedcall_deleteall"/>
+    
+    <item type="id" name="create_reviews_submit"/>
+    <item type="id" name="create_reviews_justification_validated"/>    
+    <item type="id" name="create_reviews_justification_canceled"/>
+    
+    <item type="id" name="account_facebook_error"/>
+    <item type="id" name="account_facebook_create_success"/>
+    
+    <item type="id" name="menu_history_all"/>
+    <item type="id" name="menu_history_search"/>
+    <item type="id" name="menu_history_results"/>
+    
+    <item type="id" name="search_item_c"/>
+    <item type="id" name="lastviewfd_bi_c"/>
+    <item type="id" name="search_item_all_c"/>
+    <item type="id" name="lastviewfd_bi_all_c"/>
+    
+    
+    <item type="id" name="history_callpopup"/>
+    <item type="id" name="history_callpopup_confirm"/>
+    <item type="id" name="history_callpopup_url"/>
+    <item type="id" name="lastview_phone_c" />
+    <item type="id" name="lastview_call_c" />
+    <item type="id" name="lastview_guideme_c" />
+    
+    <item type="id" name="popup_history_confirm_c"/>
+
+    <item type="id" name="lr_first" />
+    <item type="id" name="lr_bloc" />
+    <item type="id" name="lr_bloc_first" />
+
+    <item type="id" name="fd_minmap" />
+    <item type="id" name="fd_fullmap"/>
+
+    <item type="id" name="no_network_popup" />
+    <item type="id" name="no_network_popup_retry"/>
+    
+</resources>

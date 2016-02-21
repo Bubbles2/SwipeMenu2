@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright(c) $year PagesJaunes, SoLocal Group - All Rights Reserved.
+  ~
+  ~ Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential
+  -->
+
+<fr.pagesjaunes.ui.swipeMenu.SwipeMenuView xmlns:android="http://schemas.android.com/apk/res/android"
+                                           android:id="@+id/lr_module_swipe_right_menu_layout"
+                                           android:layout_width="match_parent"
+                                           android:layout_height="wrap_content"
+                                           android:orientation="horizontal"
+                                           android:background="@drawable/bg_white_hover_blue4">
+
+
+
+</fr.pagesjaunes.ui.swipeMenu.SwipeMenuView>
